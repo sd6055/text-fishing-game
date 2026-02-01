@@ -16,5 +16,6 @@ A Python console-based fishing simulation game to practice Git workflows and Pyt
 ## How to Run
 ```bash
 git clone [your-repo-url]
-cd text-fishing-game
-python fishing_game.py
+cd text-fishing-game/packages/backend
+Python fishing_game.py (Windows Powershell)
+python3 fishing_game.py (Linux/WSL/macOS)
